@@ -1,0 +1,4 @@
+com\example\companyms\company\messaging\RabbitMQConfiguration.class
+com\example\companyms\company\dto\ReviewMessage.class
+com\example\companyms\company\clients\ReviewClient.class
+com\example\companyms\company\messaging\ReviewMessageConsumer.class
